@@ -12,7 +12,7 @@
 ## 🔭 Currently
 
 - ⚙️ Working on **React.js & Next.js websites**
-- 🌐 Learning **Web3 technologies** 
+- 🌐 Learning new technologies
 - 🤝 Open to collaborate on open-source React/Node projects
 - 📬 Reach me at: `abdullahansari.dbit@gmail.com`
 
